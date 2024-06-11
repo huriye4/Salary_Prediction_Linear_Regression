@@ -58,4 +58,4 @@ Elastic Net Regression:
 Implemented Elastic Net Regression, combining Lasso and Ridge techniques.
 Cross-validated the model and analyzed its performance.
 
-Feel free to explore the implementation and findings in the notebook named SALARY PREDICTION OF BASEBALL PLAYERS WITH LINEAR REGRESSION
+Feel free to explore the implementation and findings in the notebook named SALARY PREDICTION  BASEBALL PLAYERS
